@@ -72,7 +72,7 @@ const UserForm = props => {
 					placeholder="username"
 					onChange={onChange}
 				/>
-				<label htmlFor="Password">Email:</label>
+				<label htmlFor="Password">Password:</label>
 				<input
 					required
 					type="password"
